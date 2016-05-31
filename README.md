@@ -1,4 +1,4 @@
-# Minimum Volume Enclsing Ellipsoid (MVEE)
+# Minimum Volume Enclosing Ellipsoid (MVEE)
 
 This code finds the MVEE for a given set of points. It is based on [this](http://www.mathworks.com/matlabcentral/fileexchange/9542-minimum-volume-enclosing-ellipsoid) MatLab algorithm, which is based on the [Khachiyan Algorithm](https://en.wikipedia.org/wiki/Ellipsoid_method).
 
